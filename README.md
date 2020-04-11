@@ -10,4 +10,4 @@ Features:
 - saved events persist when page is refreshed
 
 
-The application is deployed using [GitHub Pages](http://startanant.github.io/work-day-scheduler)
+The application is deployed using [GitHub Pages](http://startanant.github.io/work-day-scheduler/).
