@@ -28,7 +28,7 @@ $(document).ready(function () {
                 <div class="col-1 hour">${i}:00</div>
                 <input id="hour${i}"class="col-10" type="text">
                 <div class="col-1 saveBtn" >
-                    <i class="fas fa-save fa-2x" onclick='saveEvent("${i}")'></i> 
+                    <i class="fas fa-save" onclick='saveEvent("${i}")'></i> 
                 </div>
             </div>
             `
